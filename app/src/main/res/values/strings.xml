@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Mind Game</string>
+    <string name="card_image">cardImage</string>
+    <string name="refresh">Refresh</string>
+    <string name="choose_new_size">Choose new size</string>
+    <string name="crete_own_game">Create Own Game</string>
+    <string name="game_name_example_panda_fun">Game name (example: \'panda_fun\')</string>
+    <string name="save">Save</string>
+    <string name="memory_card">Memory card</string>
+    <string name="downloa_game">Download game</string>
+    <string name="enter_game_name">Enter game name</string>
+    <string name="download">Download</string>
+</resources>
